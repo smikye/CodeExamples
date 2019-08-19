@@ -1,7 +1,13 @@
 # CodeExamples
 This is a project with my code examples
 
-Technologies: php, Symfony2/3/4, Yii2, Kohana, ZendFramework2.
+Technologies: PHP, Symfony2/3/4, Yii2, ZendFramework2.
+
+# BaseShapeODM.php
+This is an example of ODM Entity. It is for saving properties of shapes which were drawn by JS library on front-end part.
+
+# InputFilterZF2.php
+This is an InputFilter for validating and filtering fields which came from fron-end. Related to BaseShapeODM.php. Code was written inside ZendFramework2 project.
 
 # FOSRestSymfony.php
 This is a simple example of using FOSRestBundle of Symfony4.
